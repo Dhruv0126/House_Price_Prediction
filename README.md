@@ -1,0 +1,4 @@
+# House Price Prediction 
+
+
+This project aims to predict house prices using a machine learning model built with TensorFlow, Scikit-learn, and Pandas. The dataset comprises various features such as location, size, number of rooms, and other relevant attributes that influence house prices. The workflow involves data preprocessing using Pandas to handle missing values, feature encoding, and normalization. Scikit-learn is utilized for splitting the data into training and testing sets, as well as for model evaluation metrics. TensorFlow is employed to construct, train, and fine-tune a neural network model that can effectively capture the complex relationships between the input features and the target variable. This project showcases the integration of these powerful libraries to develop a robust predictive model, aiming to provide accurate house price estimations and insights into the factors driving market trends.
